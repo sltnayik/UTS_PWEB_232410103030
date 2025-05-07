@@ -1,1 +1,1 @@
-MyKesibukan adalah sebuah website sederhana berbasis Laravel yang memungkinkan pengguna untuk login, melihat dashboard pribadi, mengelola daftar tugas, dan melihat profil. Aplikasi ini tidak menggunakan database dan menyimpan data secara sementara menggunakan session. Desainnya dibuat responsif dan ramah pengguna dengan bantuan Blade template dan Bootstrap.
+MyKesibukan adalah sebuah website sederhana berbasis Laravel yang memungkinkan pengguna untuk login, melihat dashboard pribadi, mengelola daftar tugas, dan melihat profil. . Desainnya dibuat responsif dan ramah pengguna.
